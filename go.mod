@@ -1,3 +1,3 @@
-module zgo.at/gadget
+module github.com/macnie/gadget
 
 go 1.13
